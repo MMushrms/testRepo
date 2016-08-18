@@ -3,8 +3,6 @@ Geyang Xie
 MMushrms
 Mike
 yuirrr
-<<<<<<< HEAD
 uuuuuuuuuuu
-=======
 hhhhh
->>>>>>> cd66ffedc50e3bbc9014511832f8c37bf21cec25
+
